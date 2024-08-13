@@ -2,8 +2,8 @@ export const scaleFactor = 4;
 
 export const dialogueData = {
   pc: `This is my PC. I work mostly in JavaScript these days.
-    I've been trying to upskill lately. Anyway regardless of the language, I enjoy programming.
-    Here is my <a href="https://yinyu.netlify.app/" target="_blank">website</a>!`,
+    I've been trying to upskill lately. Anyway regardless of the language, I enjoy programming. I'm still working on this,
+    here is my <a href="https://github.com/totoro-7" target="_blank">github</a>!`,
   "cs-degree": `This is my Information Engineering & Media transcript. I hung it on the wall because I'm proud of it & reminds me of what I am working towards!`,
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
   I learnt programming concepts and followed projects from tech youtubers, 
@@ -16,5 +16,5 @@ export const dialogueData = {
   Text is rendered with HTML/CSS.`,
   library: `There are a lot of fictional books on my shelves. I love to be transported in these worlds that can only exist within the pages.
   Though, I'm currently moving towards motivational books.`,
-  exit: `If you want to exit this portfolio, just close the tab.`,
+  exit: `Click on <a href="https://yinyu.netlify.app/" target="_blank">this link</a>! to be transported to my website portfolio! .`,
 };
